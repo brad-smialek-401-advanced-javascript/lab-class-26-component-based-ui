@@ -5,10 +5,7 @@
 ### Author: Brad Smialek
 
 ### Links and Resources
-* [Link to lab-7-middleware repo](https://github.com/brad-smialek-401-advanced-javascript/lab-07-middleware)
 * [submission PR](https://github.com/brad-smialek-401-advanced-javascript/lab-class-26-component-based-ui)
-* [travis]([![Build Status]()
-
 * [Link to CodeSandBox.io](https://codesandbox.io/s/starter-code-3s0et)
 
 
