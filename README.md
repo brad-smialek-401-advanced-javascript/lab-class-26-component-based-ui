@@ -5,7 +5,6 @@
 ### Author: Brad Smialek
 
 ### Links and Resources
-* [submission PR](https://github.com/brad-smialek-401-advanced-javascript/lab-class-26-component-based-ui)
 * [Link to CodeSandBox.io](https://codesandbox.io/s/starter-code-3s0et)
 
 
