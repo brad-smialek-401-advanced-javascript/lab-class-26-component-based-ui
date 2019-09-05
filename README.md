@@ -9,31 +9,17 @@
 
 
 ### Modules
-#### `index.js`
-#### `server.js`
-
-
-### Setup
-* `PORT`
-
-#### Running the app
-* `nodemon`
+#### `counter.js`
+#### `footer.js`
+#### `header.js`
 
 #### Classes
-* ` `
+* `counter `
+* `footer `
+* `app `
   
 #### Methods
-* `get '/categories'`
-  * Returns a JSON object with count and results.
-* `get '/categories/:id'`
-  * Returns a record.
-
-
-#### Documentation
-* 
-
-#### Tests
-* 
+* `render`
 
 #### UML
-![UML](./assets/uml.jpg)
+![UML]()
