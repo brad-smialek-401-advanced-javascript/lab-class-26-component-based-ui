@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import Header from "./components/header/header";
 import Footer from "./components/footer/footer";
 import Counter from "./components/counter/counter";
-import "./app.scss";
+import "./_app.scss";
 
 function App() {
   return (

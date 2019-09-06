@@ -1,12 +1,11 @@
 import React from "react";
-import "./header.scss";
+import "./_header.scss";
 
 class Header extends React.Component {
   render (){
     return (
       <header>
         <h1>Pong Counter</h1>
-      
       </header>
     );
   }
