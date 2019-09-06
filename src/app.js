@@ -1,22 +1,20 @@
-import React from 'react';
-import { connect } from 'react-redux';
+import React from "react";
+import { connect } from "react-redux";
 
-import Header from "./components/header";
-import Footer from "./components/footer";
-import Counter from "./components/counter";
-//import "./app.scss";
+import Header from "./components/header/header";
+import Footer from "./components/footer/footer";
+import Counter from "./components/counter/counter";
 
-
-class App extends React.Component {
-  render() {
-    return (
+function App() {
+  return (
+    <>
       <React.Fragment>
         <Header />
         <Counter />
         <Footer />
       </React.Fragment>
-    );
-  }
+    </>
+  );
 }
 
 export default App;
