@@ -25,7 +25,7 @@ class Counter extends React.Component {
 
   render() {
     return (
-      <div id="main">
+      <div id="clickCount">
         <button class="clicker" id="clickdown" onClick={this.decrement}>
           -1
         </button>
