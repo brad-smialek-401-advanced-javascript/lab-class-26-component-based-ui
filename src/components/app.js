@@ -1,8 +1,8 @@
 import React from "react";
 import { connect } from "react-redux";
-import Header from "./components/header/header";
-import Footer from "./components/footer/footer";
-import Counter from "./components/counter/counter";
+import Header from "./header/header";
+import Footer from "./footer/footer";
+import Counter from "./counter/counter";
 import "./_app.scss";
 
 function App() {
